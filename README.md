@@ -22,7 +22,7 @@
 # 🤖 AI & Automation:   
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white) ![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black) ![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white) ![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white) ![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white) ![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white) ![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)  
 
-# 💻 Tech Stack:
+# 💻 Tech Knowledge:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
