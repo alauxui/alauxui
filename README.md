@@ -1,7 +1,7 @@
 <img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/9e73cda4-eb8e-4394-bea9-717035552dba" />
 
 # 💫 About Me:
-👨‍💻 Senior Product Designer with a background in software engineering.<br/>
+👨‍💻 Product Designer with a background in software engineering.<br/>
 -  🎨 Passionate about creating intuitive, user-centered experiences through research and design.<br>
 -  🌱 Designing fintech, e-commerce, e-education, and AI-driven products<br>
 -  🔭 Exploring the intersection of design and AI to enhance digital experiences.<br>
