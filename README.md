@@ -48,8 +48,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alasemassel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alasemassel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="331" height="121" alt="image" src="https://github.com/user-attachments/assets/7b5d3efe-2117-4b81-89e1-0d8b0bbbf32e" />
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
