@@ -1,60 +1,40 @@
-<img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/9e73cda4-eb8e-4394-bea9-717035552dba" />
+<img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
 
 # 💫 About Me:
-👨‍💻 Product Designer with a background in software engineering.<br/>
--  🎨 Passionate about creating intuitive, user-centered experiences through research and design.<br>
--  🌱 Designing fintech, e-commerce, e-education, and AI-driven products<br>
--  🔭 Exploring the intersection of design and AI to enhance digital experiences.<br>
-
-<!-- - 💬 Ask me about flutter,<br> -->
-
+👨‍💻 AI Product Designer with a background in software engineering.<br/>
+- 🧠 Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
+- 🛠️ Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
+- 🎨 Work on the agentic design system **Acanthus Design System**, a multi-brand token architecture, LLM ready<br>
+- 📊 Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
+- ❄️ Daily driving **NixOS** with a fully reproducible, flake-based setup<br>
+- 🌍 Based in Algeria, operating worldwide - portfolio at [alaux.site](https://alaux.site)<br>
 
 ## 🌐 Socials:
-[![Dribbble](https://img.shields.io/badge/Dribbble-%230077B5.svg?logo=Dribbble&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alasem) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaxsemassel) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhaidshqjzax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alaeddine.uiux/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF87?logo=googlechrome&logoColor=black)](https://alaux.site) [![Dribbble](https://img.shields.io/badge/Dribbble-%230077B5.svg?logo=Dribbble&logoColor=white)](https://dribbble.com/alasem) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alasem) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaxsemassel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alaeddine.uiux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236)
 
 # 🖌️ Design & Prototyping:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-# 📊 Research & Analytics: 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white) ![Maze](https://img.shields.io/badge/Maze-252F3E?style=for-the-badge&logo=maze&logoColor=white)  
+# 🤖 AI & Automation:
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude&logoColor=D97757) ![MCP](https://img.shields.io/badge/MCP-00FF87?style=for-the-badge&logo=anthropic&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white) ![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black)
+
+# 📊 Analytics & Research:
+![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white) ![Plausible](https://img.shields.io/badge/Plausible-5850EC?style=for-the-badge&logo=plausibleanalytics&logoColor=white) ![Maze](https://img.shields.io/badge/Maze-252F3E?style=for-the-badge&logo=maze&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google%20Forms-673AB7?style=for-the-badge&logo=googleforms&logoColor=white)
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# ⚙️ Environment:
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black) 
 
 # 💬 Communication & Collaboration:
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
 
-# 🤖 AI & Automation:   
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white) ![RunwayML](https://img.shields.io/badge/RunwayML-65D2E9?style=for-the-badge&logo=runwayml&logoColor=black) ![Muse](https://img.shields.io/badge/Muse-FF3366?style=for-the-badge&logo=muse&logoColor=white) ![Lummi](https://img.shields.io/badge/Lummi-00C853?style=for-the-badge&logo=lummi&logoColor=white) ![SpecAi](https://img.shields.io/badge/SpecAi-4A90E2?style=for-the-badge&logo=specai&logoColor=white) ![Attention Insight](https://img.shields.io/badge/Attention%20Insight-FF9800?style=for-the-badge&logo=insight&logoColor=white) ![Codia AI](https://img.shields.io/badge/Codia%20AI-673AB7?style=for-the-badge&logo=codiaai&logoColor=white)  
-
-# 💻 Tech Knowledge:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-<!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
-
-<!--  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alasemassel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alasemassel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alasemassel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alasemassel&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
--->
 ---
 [![](https://visitcount.itsvg.in/api?id=Alasemassel&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
