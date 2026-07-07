@@ -6,7 +6,6 @@
 - 🛠️ Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
 - 🎨 Work on the agentic design system **Acanthus Design System**, a multi-brand token architecture, LLM ready<br>
 - 📊 Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
-- ❄️ Daily driving **NixOS** with a fully reproducible, flake-based setup<br>
 - 🌍 Based in Algeria, operating worldwide - portfolio at [alaux.site](https://alaux.site)<br>
 
 ## 🌐 Socials:
