@@ -1,12 +1,12 @@
 <img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
 
 # 💫 About Me:
-👨‍💻 AI Product Designer with a background in software engineering.<br/>
-- 🧠 Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
-- 🛠️ Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
-- 🎨 Work on the agentic design system **Acanthus Design System**, a multi-brand token architecture, LLM ready<br>
-- 📊 Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
-- 🌍 Based in Algeria, operating worldwide - portfolio at [alaux.site](https://alaux.site)<br>
+AI Product Designer with a background in software engineering 👨‍💻 <br/>
+- Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
+- Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
+- Work on the agentic design system **Acanthus Design System**, a multi-brand token architecture, LLM ready<br>
+- Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
+- Based in Algeria, operating worldwide - portfolio at [alaux.site](https://alaux.site)<br>
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF87?logo=googlechrome&logoColor=black)](https://alaux.site) [![Dribbble](https://img.shields.io/badge/Dribbble-%230077B5.svg?logo=Dribbble&logoColor=white)](https://dribbble.com/alasem) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/alasem) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alaxsemassel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alaeddine.uiux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ala-eddine-semassel-565220236)
