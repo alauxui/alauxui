@@ -1,11 +1,12 @@
 <img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
 
 # 💫 About Me:
-AI Product Designer with a background in software engineering 👨‍💻 <br/>
-- Product Design Lead at **Bigmama Technology**, designing AI products: **HykoAI**, and **Jardin Secret AI**<br>
-- Building **local-first MCP tools** centered on data sovereignty, compatible with Hyko AI, Claude, Strawberry browser,cursor..<br>
-- Work on the agentic design OS **Acanthus OS**, a multi-brand design system architecture, with animation workspace, prototypes and LLM ready<br>
-- Running analytics & LLM evaluation infrastructure with PostHog (agent activity, LLM evals, cost reporting)<br>
+Design Engineer with a background in software engineering 👨‍💻 <br/>
+- Design Engineer at **Bigmama Technology**, owning the front-end and user experience of Hyko AI, from design to production code
+- Designing and shipping AI products for non-technical users: **Hyko AI**, with agent experience (AX) as much a focus as UX
+- Building Design OS, an agentic design operating system with a living design system, live flow prototypes, an animation workspace, and AI agents that work alongside designers and engineers
+- Building local-first MCP tools centered on data sovereignty, compatible with Hyko AI, Claude, Cursor, Strawberry browser, and more
+- Running automated UI testing with Maestro sdk, plus analytics and LLM evaluation with PostHog (agent activity, LLM evals, cost reporting)
 - Based in Algeria, operating worldwide - portfolio at [alaux.site](https://alaux.site)<br>
 
 ## 🌐 Socials:
