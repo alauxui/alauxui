@@ -1,4 +1,5 @@
-<img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
+<img width="6336" height="1584" alt="linkedin-2026" src="https://github.com/user-attachments/assets/2500317f-6714-4419-980e-dec97fdc5c60" />
+
 
 # 💫 About Me:
 Product Design Engineer with a background in software engineering 👨‍💻 <br/>
