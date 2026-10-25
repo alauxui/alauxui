@@ -1,8 +1,8 @@
 <img width="6336" height="1584" alt="image" src="https://github.com/user-attachments/assets/0bc48757-1c23-4cd2-bc01-098e1e9c3dee" />
 
 # 💫 About Me:
-Design Engineer with a background in software engineering 👨‍💻 <br/>
-- Lead Design Engineer at **Bigmama Technology**, owning the front-end and user experience of Hyko AI, from design to production code
+Product Design Engineer with a background in software engineering 👨‍💻 <br/>
+- Lead Product Design Engineer at **Bigmama Technology**, owning the front-end and user experience of Hyko AI, from design to production code
 - Designing and shipping AI products for non-technical users: **Hyko AI**, with agent experience (AX) as much a focus as UX
 - Building Design OS, an agentic design operating system with a living design system, live flow prototypes, an animation workspace, and AI agents that work alongside designers and engineers
 - Building local-first MCP tools centered on data sovereignty, compatible with Hyko AI, Claude, Cursor, Strawberry browser, and more
